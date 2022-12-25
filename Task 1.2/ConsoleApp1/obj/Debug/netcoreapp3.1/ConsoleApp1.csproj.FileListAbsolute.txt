@@ -1,0 +1,14 @@
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

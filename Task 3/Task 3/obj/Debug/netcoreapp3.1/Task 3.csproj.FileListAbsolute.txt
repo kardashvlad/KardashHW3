@@ -1,0 +1,14 @@
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.exe
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.deps.json
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.runtimeconfig.json
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.runtimeconfig.dev.json
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.dll
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.pdb
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.csproj.AssemblyReference.cache
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.AssemblyInfoInputs.cache
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.AssemblyInfo.cs
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.csproj.CoreCompileInputs.cache
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.dll
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.pdb
+F:\+Student files\ООП\Практики\28.09.2022\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.genruntimeconfig.cache

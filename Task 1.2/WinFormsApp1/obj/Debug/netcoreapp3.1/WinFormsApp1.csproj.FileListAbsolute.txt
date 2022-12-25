@@ -1,0 +1,16 @@
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+F:\+Student files\ООП\Практики\Solution 1.2 Astafiev Denys\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
